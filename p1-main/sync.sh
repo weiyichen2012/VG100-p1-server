@@ -1,0 +1,1 @@
+cp -f index.html elm.js /usr/share/nginx/html
