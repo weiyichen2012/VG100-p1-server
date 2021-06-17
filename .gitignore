@@ -1,0 +1,10 @@
+sync.sh
+p1-main/sync.sh
+p1-main/makefile
+p1-main/piazza.md
+p1-main/.idea/
+p1-main/elm-stuff/
+p1-main/elm.js
+p1-server/.idea/
+p1-server/node_modules/
+p1-server/package-lock.json
